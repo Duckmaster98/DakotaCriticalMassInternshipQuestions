@@ -10,26 +10,28 @@ I had used a Java API from EasyPost (https://www.easypost.com/) to achieve the l
 The second project that I had done at SAIT is involving Web Assembly and demoing it to our class, as the class’s purpose was to research emerging trends in software development. I felt like undertaking upon learning how to use a new language especially one involving web development. The demo I was trying to perform was to showcase the languages strength with calculating arithmetic over using pure JavaScript, however I had issues since my understanding of the language was fairly new so said demo turned into more of a basic showcase of Web Assembly. Unfortunately I do not have access to the recording of said presentation showing said demo, however I do have copies of the presentations as well as blog posts from when I did such. https://duckmaster98.blogspot.com
 
 For my third work this is more of a compilation of what I have learned at SAIT rather than a single project like the others. Said programming and geenral knowledge that I have acquired over my four years at SAIT are
-<ol>
+<ul>
   <li>How to configure a website using JSP, servlets, and passing objects with JavaBeans</li>
   <li>How to create a local java applcation with a GUI</li>
   <li>How to set up a Cisco server</li>
   <li>Understanding Binary and consersions to hexadecimal</li>
-</ol>
+</ul>
 
 # Inspiration
 The first form of technical inspiration for me would be open source variants of game engines, some examples being Open Roller Coaster Tycoon 2, FiveM, and Ikemen GO plus to name a few. This could also be extended to any game engine that allows for modding support. Since I’ve always found that being able to customize a game engine to suit ones use case interesting. This also does allow for a community of said game to realize features that said original developers did not foresee in its original release.
-https://github.com/K4thos/Ikemen_GO
-https://fivem.net/
-https://openrct2.org/
+<ul>
+  <li>https://github.com/K4thos/Ikemen_GO</li>
+  <li>https://fivem.net/</li>
+  <li>https://openrct2.org/</li>
+</ul>
 
 The second form of technical inspiration would be the general tech community on YouTube, whether said tech be new or old it all does give me inspiration upon said showcases and projects they happen to take up on. Giving me inspiration to explore some of this technology in the future whether new or old. Said channels I like to watch I’ve linked here.
-https://www.youtube.com/user/AkBKukU
-https://www.youtube.com/user/phreakindee
-https://www.youtube.com/user/NCommander
-https://www.youtube.com/user/LinusTechTips
-
-
+<ul>
+  <li>https://www.youtube.com/user/AkBKukU</li>
+  <li>https://www.youtube.com/user/phreakindee</li>
+  <li>https://www.youtube.com/user/NCommander</li>
+  <li>https://www.youtube.com/user/LinusTechTips</li>
+</ul>
 
 # Focus
 My focus that I would do if given time and resources to do during said internship is using WebAssembly to implement web application solutions with as minimal JavaScript as possible while using WebAssembly modules when possible. Since what I did learn from doing explorations with WebAseembly is that one could use JavaScript as a bootloader for said WebAssembly modules and that due to the nature of WebAssembly being an implementation of the Assembly Language is having faster computational arithmetic then JavaScript. This would also improve my skills with lower level languages where garbage collection and memory management are not done for me unlike Java.
