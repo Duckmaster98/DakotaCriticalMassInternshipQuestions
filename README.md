@@ -18,20 +18,23 @@ For my third work this is more of a compilation of what I have learned at SAIT r
 </ul>
 
 # Inspiration
-The first form of technical inspiration for me would be open source variants of game engines, some examples being Open Roller Coaster Tycoon 2, FiveM, and Ikemen GO plus to name a few. This could also be extended to any game engine that allows for modding support. Since I’ve always found that being able to customize a game engine to suit ones use case interesting. This also does allow for a community of said game to realize features that said original developers did not foresee in its original release.
+The first form of technical inspiration for me would be open source variants of game engines, some examples being Open Roller Coaster Tycoon 2, FiveM, and Ikemen GO plus to name a few. This could also be extended to any game engine that allows for modding support. Since I’ve always found that being able to customize a game engine to suit ones use case interesting. This also does allow for a community of said game to realize features that said original developers did not foresee in its original release. 
 <ul>
   <li>https://github.com/K4thos/Ikemen_GO</li>
   <li>https://fivem.net/</li>
   <li>https://openrct2.org/</li>
 </ul>
 
-The second form of technical inspiration would be the general tech community on YouTube, whether said tech be new or old it all does give me inspiration upon said showcases and projects they happen to take up on. Giving me inspiration to explore some of this technology in the future whether new or old. Said channels I like to watch I’ve linked here.
+The second form of technical inspiration would be the general tech community on YouTube, whether said tech be new or old it all does give me inspiration upon said showcases and projects they happen to take up on. Giving me inspiration to explore some of this technology in the future myself whether it would be new or old. Said channels I like to watch I’ve linked here.
 <ul>
   <li>https://www.youtube.com/user/AkBKukU</li>
   <li>https://www.youtube.com/user/phreakindee</li>
   <li>https://www.youtube.com/user/NCommander</li>
   <li>https://www.youtube.com/user/LinusTechTips</li>
+  <li>https://www.youtube.com/user/CuriousMarc</li>
 </ul>
+
+The third form of inspiration as of late would be with another YouTuber Wesley Kegan with managing to implement hyper car technology on a low end industrial engine with the use of 3D printing and Arduino coding. In which for said use of 3D printing and Arduino coding to improve upon existing technologies to improve efficiency. I can see plenty of uses for said technologies other than just for improving engines. https://www.youtube.com/watch?v=k_MrPylnsDg
 
 # Focus
 My focus that I would do if given time and resources to do during said internship is using WebAssembly to implement web application solutions with as minimal JavaScript as possible while using WebAssembly modules when possible. Since what I did learn from doing explorations with WebAseembly is that one could use JavaScript as a bootloader for said WebAssembly modules and that due to the nature of WebAssembly being an implementation of the Assembly Language is having faster computational arithmetic then JavaScript. This would also improve my skills with lower level languages where garbage collection and memory management are not done for me unlike Java.
