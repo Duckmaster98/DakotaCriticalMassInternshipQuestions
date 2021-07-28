@@ -9,11 +9,11 @@ I had used a Java API from EasyPost (https://www.easypost.com/) to achieve the l
 
 The second project that I had done at SAIT is involving Web Assembly and demoing it to our class, as the class’s purpose was to research emerging trends in software development. I felt like undertaking upon learning how to use a new language especially one involving web development. The demo I was trying to perform was to showcase the languages strength with calculating arithmetic over using pure JavaScript, however I had issues since my understanding of the language was fairly new so said demo turned into more of a basic showcase of Web Assembly. Unfortunately I do not have access to the recording of said presentation showing said demo, however I do have copies of the presentations as well as blog posts from when I did such. https://duckmaster98.blogspot.com
 
-For my third work this is more of a compilation of what I have learned at SAIT rather than a single project like the others. Said programming and geenral knowledge that I have acquired over my four years at SAIT are
-• How to configure a website using JSP, servlets, and passing objects with JavaBeans
-• How to create a local java applcation with a GUI
-• How to set up a Cisco server
-• Understanding Binary and consersions to hexadecimal
+For my third work this is more of a compilation of what I have learned at SAIT rather than a single project like the others. Said programming and geenral knowledge that I have acquired over my four years at SAIT are <hr>
+• How to configure a website using JSP, servlets, and passing objects with JavaBeans <hr>
+• How to create a local java applcation with a GUI <hr>
+• How to set up a Cisco server <hr>
+• Understanding Binary and consersions to hexadecimal <hr>
 • 
 
 # 
