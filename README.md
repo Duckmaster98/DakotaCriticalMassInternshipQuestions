@@ -45,6 +45,8 @@ My focus that I would do if given time and resources to do during said internshi
 
 Another focus I would also be interested for said internship is learning more about is Arduino programming and implementing solutions with said micro controllers. I’ve always personally found them interesting devices to develop and implement for. It would also give me more experience with C++ since my time at SAIT was more focused on Java rather than C or C++.
 
+I hope these two idea's for focuses for me to do are valid enough to persue.
+
 # Code Challenge
 https://codesandbox.io/s/2021-internship-exercise-menu-forked-ns338
 Here is my code challenege submission, after derusting with JavaScript I came up with a fairly simple solution using pure JavaScript without any external imports or than for cheesy fonts and a background image. I accidentally forked it twice at the beginning but once I derusted with JS it was fairly easy to code.
