@@ -47,4 +47,4 @@ Another focus I would also be interested for said internship is learning more ab
 
 # Code Challenge
 https://codesandbox.io/s/2021-internship-exercise-menu-forked-ns338
-Here is my code challenege submission, after derusting with JavaScript I came up with a fairly simple solution using pure JavaScript without any external imports or than for cheesy fonts and a background image. 
+Here is my code challenege submission, after derusting with JavaScript I came up with a fairly simple solution using pure JavaScript without any external imports or than for cheesy fonts and a background image. I acceidently forked it twice at the beginning but once I derusted with JS it was fairly easy.
