@@ -49,4 +49,4 @@ I hope these two idea's for focuses for me to do are valid enough to persue.
 
 # Code Challenge
 https://codesandbox.io/s/2021-internship-exercise-menu-forked-ns338
-Here is my code challenege submission, after derusting with JavaScript I came up with a fairly simple solution using pure JavaScript without any external imports or than for cheesy fonts and a background image. I accidentally forked it twice at the beginning but once I derusted with JS it was fairly easy to code.
+Here is my code challenege submission, after getting used to JavaScript again being rusty at it I came up with a fairly simple solution using pure JavaScript without any external imports or than for cheesy fonts and a background image. I accidentally forked it twice at the beginning but once I derusted with JS it was fairly easy to code.
